@@ -1,0 +1,28 @@
+/* Universal Styles*/
+
+body {
+    background-color: black;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    margin: 0;
+
+}
+
+
+/*header*/
+
+header {
+    width: 100%;
+    
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+header p a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
