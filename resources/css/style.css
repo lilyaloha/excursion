@@ -1,24 +1,20 @@
-/* Universal Styles*/
+/* Universal Styles　*/
 
 body {
     background-color: black;
     font-family: Verdana, sans-serif;
     text-align: center;
-    margin: 0;
 
 }
 
 
-/*header*/
-
-header {
-    width: 100%;
-    
-}
+/*　header　*/
 
 h1 {
   color: white;
   font-size: 50px;
+  font-weight: normal;
+
 }
 
 p a {
@@ -26,7 +22,7 @@ p a {
     font-size: 16px;
 }
 
-/*Main*/
+/*　Main　*/
 
 h2{
     font-weight: 300;
@@ -40,14 +36,13 @@ h3{
     color: gray;
 }
 
-/*Footer*/
+/*　Footer　*/
 
 footer{
-    width: 100%;
     text-align: right;
     font-size: 21px;
     color: gray;
-    padding: 15px;
+
 }
 
 .fa-copyright{
@@ -59,5 +54,5 @@ footer{
 }
 
 @media only screen and (min-width: 768px) and (max-width: 1024px){
-    
+
 }
