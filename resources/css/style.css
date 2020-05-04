@@ -21,8 +21,43 @@ h1 {
   font-size: 50px;
 }
 
-header p a {
+p a {
     color: aquamarine;
     font-size: 16px;
 }
 
+/*Main*/
+
+h2{
+    font-weight: 300;
+    font-size: 42px;
+    color: white;
+
+}
+
+h3{
+    font-size: 21px;
+    color: gray;
+}
+
+/*Footer*/
+
+footer{
+    width: 100%;
+    text-align: right;
+    font-size: 21px;
+    color: gray;
+    padding: 15px;
+}
+
+.fa-copyright{
+    margin-right : 10px;
+}
+
+@media only screen and (max-width: 480px){
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px){
+    
+}
